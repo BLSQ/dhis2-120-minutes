@@ -27,9 +27,9 @@ Anyone in your team that is going to use WISN/POA and/or interact with the UDSM 
 - Administration
 - API
 
----
+--
 
-## 0. Intro
+## Intro
 
 ---
 
@@ -60,9 +60,9 @@ Includes supporting use cases:
 
 While sold as a health database, nothing there is actually health specific.
 
----
+--
 
-## 1. Data Model & Data Entry
+## Data Model & Data Entry
 
 ---
 
@@ -169,9 +169,9 @@ Many programs with a lot of -bad- data
 - Did Baoma CHP report its quality data for September 2018?
 - How many health centers in Kansai provinces reported their data for last quarter?
 
----
+--
 
-## 3. Reporting & Analysis
+## Reporting & Analysis
 
 ---
 
@@ -215,7 +215,7 @@ Share them
 
 ### In practice: Analysis
 
----
+--
 
 ## Administration
 
@@ -245,7 +245,7 @@ Roles + sub pyramid
 - Meta data: XML/JSON/CSV
 - Data
 
----
+--
 
 ## API
 
