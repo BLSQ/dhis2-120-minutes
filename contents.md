@@ -148,9 +148,9 @@ There is another (new) data model in DHIS2:
 
 Android based apps to enter data in DHIS2 ("Data Capture"), possibly offline
 
----
+--
 
-## 2. Quality control
+## Quality control
 
 ---
 
@@ -273,8 +273,8 @@ It's even documented
 
 ---
 
-Everything that is possible throught the interface is possible through the API
+Everything that is possible through the interface is possible through the API
 
----
+--
 
 ## Q/A
